@@ -1,4 +1,2 @@
-import requests
-print(55)
-print(requests.post(r"https://api.gumroad.com/v2/licenses/verify",data={"product_permalink": "wqygo","license_key": 'E0E260DF-CBAA4989-856B3A4F-BEDC873D'}).text)
-print(5555)
+print(55454545)
+
